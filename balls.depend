@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1717699049 source:c:\users\denys\downloads\”н≥вер\balls\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<cmath>
+	<ctime>
+	"circle.h"
+	"Vector2.h"
+
+1717427958 c:\users\denys\downloads\”н≥вер\balls\circle.h
+	"Color.h"
+
+1717427958 source:c:\users\denys\downloads\”н≥вер\balls\circle.cpp
+	<gl/gl.h>
+	<cmath>
+	"circle.h"
+
+1717270074 source:c:\users\denys\downloads\”н≥вер\balls\color.cpp
+	"Color.h"
+
+1717270352 c:\users\denys\downloads\”н≥вер\balls\color.h
+
+1717270332 source:c:\users\denys\downloads\”н≥вер\balls\vector2.cpp
+	"Vector2.h"
+
+1717332226 c:\users\denys\downloads\”н≥вер\balls\vector2.h
+
